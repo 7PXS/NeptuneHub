@@ -7,7 +7,7 @@ return {
     },
 
     [14890802310] = {
-        Name    = "A Bizarre Lineage",
+        Name    = "Bizarre Lineage",
         PaidUrl = "https://api.luarmor.net/files/v4/loaders/8e596a14b226166df1768ba08d56d4b7.lua",
         FreeUrl = "https://api.luarmor.net/files/v4/loaders/1d81a6853a3d06f84ff080a9df897512.lua",
     },
@@ -22,12 +22,6 @@ return {
         Name    = "Ghoul Re",
         PaidUrl = "https://api.luarmor.net/files/v4/loaders/10de03d3dcd49cf0d5deaa7f0e58ee02.lua",
         FreeUrl = nil,
-    },
-
-    [0000000005] = {
-        Name    = "Bizarre Lineage",
-        PaidUrl = "https://api.luarmor.net/files/v4/loaders/c9b0fca9ee7806da690cd40c77751691.lua",
-        FreeUrl = "https://api.luarmor.net/files/v4/loaders/fb277df44e3bc5d7b727588f9302c1d5.lua",
     },
 
     [13901460084] = {
@@ -52,6 +46,12 @@ return {
         Name    = "Sailor Piece",
         PaidUrl = nil,
         FreeUrl = "https://api.luarmor.net/files/v4/loaders/222bd64da9f9fcc23a1647402de6282d.lua",
+    },
+
+    [1458767429] = {
+        Name    = "ABA",
+        PaidUrl = "https://api.luarmor.net/files/v4/loaders/c9b0fca9ee7806da690cd40c77751691.lua",
+        FreeUrl = "https://api.luarmor.net/files/v4/loaders/fb277df44e3bc5d7b727588f9302c1d5.lua",
     },
 
 }
