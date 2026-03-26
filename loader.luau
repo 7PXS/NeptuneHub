@@ -54,4 +54,10 @@ return {
         FreeUrl = "https://api.luarmor.net/files/v4/loaders/fb277df44e3bc5d7b727588f9302c1d5.lua",
     },
 
+    [9271746647] = {
+        Name    = "Baseplate",
+        PaidUrl = "https://raw.githubusercontent.com/EdgeIY/infiniteyield/master/source",
+        FreeUrl = "https://raw.githubusercontent.com/EdgeIY/infiniteyield/master/source",
+    },
+
 }
