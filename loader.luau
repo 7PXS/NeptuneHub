@@ -3,7 +3,7 @@ return {
     [3726919761] = {
         Name    = "Cursed Gear",
         PaidUrl = "https://api.luarmor.net/files/v4/loaders/36864a859d2e1641ff75da81e971f9fe.lua",
-        FreeUrl = nil,
+        FreeUrl = "https://api.luarmor.net/files/v4/loaders/248ac237cd25b7f8bc00967aa75b3241.lua",
     },
 
     [5130394318] = {
