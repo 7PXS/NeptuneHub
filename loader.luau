@@ -6,6 +6,12 @@ return {
         FreeUrl = "https://api.luarmor.net/files/v4/loaders/248ac237cd25b7f8bc00967aa75b3241.lua",
     },
 
+    [8524572339] = {
+        Name    = "bridger: WESTERN",
+        PaidUrl = "https://api.luarmor.net/files/v4/loaders/00f66c6113c62438df3ad3ba4ab54ddc.lua",
+        FreeUrl = nil,
+    },
+
     [5130394318] = {
         Name    = "Bizarre Lineage",
         PaidUrl = "https://api.luarmor.net/files/v4/loaders/8e596a14b226166df1768ba08d56d4b7.lua",
