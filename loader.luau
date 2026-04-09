@@ -12,6 +12,7 @@ return {
         FreeUrl = nil,
     },
 
+
     [5130394318] = {
         Name    = "Bizarre Lineage",
         PaidUrl = "https://api.luarmor.net/files/v4/loaders/8e596a14b226166df1768ba08d56d4b7.lua",
@@ -58,6 +59,12 @@ return {
         Name    = "ABA",
         PaidUrl = "https://api.luarmor.net/files/v4/loaders/c9b0fca9ee7806da690cd40c77751691.lua",
         FreeUrl = "https://api.luarmor.net/files/v4/loaders/fb277df44e3bc5d7b727588f9302c1d5.lua",
+    },
+
+    [648454481] = {
+        Name    = "GPO",
+        PaidUrl = "https://api.luarmor.net/files/v4/loaders/61102a9b811fe8273401dd82e87af377.lua",
+        FreeUrl = nil,
     },
 
     [9271746647] = {
