@@ -51,8 +51,8 @@ return {
 
     [9186719164] = {
         Name    = "Sailor Piece",
-        PaidUrl = nil,
-        FreeUrl = "https://api.luarmor.net/files/v4/loaders/222bd64da9f9fcc23a1647402de6282d.lua",
+        PaidUrl = "https://api.luarmor.net/files/v4/loaders/60b92b9536dd001f847cf6dfa6baf96a.lua",
+        FreeUrl = nil,
     },
 
     [578392296] = {
