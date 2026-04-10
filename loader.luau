@@ -67,6 +67,12 @@ return {
         FreeUrl = nil,
     },
 
+    [3646793294] = {
+        Name    = "Paradox",
+        PaidUrl = "https://api.luarmor.net/files/v4/loaders/5353c3b548ae284d8f5d8f47fec83398.lua",
+        FreeUrl = nil,
+    },
+
     [9271746647] = {
         Name    = "Baseplate",
         PaidUrl = "https://raw.githubusercontent.com/EdgeIY/infiniteyield/master/source",
