@@ -69,8 +69,8 @@ return {
 
     [3646793294] = {
         Name    = "Paradox",
-        PaidUrl = nil,
-        FreeUrl = "https://api.luarmor.net/files/v4/loaders/ef92f3d02260fe6c32d8d0e28fffd566.lua",
+        PaidUrl = "https://api.luarmor.net/files/v4/loaders/ef92f3d02260fe6c32d8d0e28fffd566.lua",
+        FreeUrl = "https://api.luarmor.net/files/v4/loaders/d910afd350100dfc9ed8c8b1580784fd.lua",
     },
 
     [7800001548] = {
