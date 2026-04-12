@@ -75,7 +75,7 @@ return {
 
     [7800001548] = {
         Name    = "Exordia",
-        PaidUrl = "https://api.luarmor.net/files/v4/loaders/d910afd350100dfc9ed8c8b1580784fd.lua",
+        PaidUrl = "https://api.luarmor.net/files/v4/loaders/5353c3b548ae284d8f5d8f47fec83398.lua",
         FreeUrl = nil,
     },
 
