@@ -9,7 +9,7 @@ return {
     [8524572339] = {
         Name    = "bridger: WESTERN",
         PaidUrl = "https://api.luarmor.net/files/v4/loaders/00f66c6113c62438df3ad3ba4ab54ddc.lua",
-        FreeUrl = nil,
+        FreeUrl = "https://api.luarmor.net/files/v4/loaders/62fae3fc8ed63cf34669218569de1eb0.lua",
     },
 
 
