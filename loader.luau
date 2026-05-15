@@ -6,6 +6,12 @@ return {
         FreeUrl = "https://api.luarmor.net/files/v4/loaders/248ac237cd25b7f8bc00967aa75b3241.lua",
     },
 
+    [4871329703] = {
+        Name    = "Type Soul",
+        PaidUrl = "https://api.luarmor.net/files/v4/loaders/14d17ae9ee94144cb99f7a8bb882861f.lua",
+        FreeUrl = "https://api.luarmor.net/files/v4/loaders/23257859e8c9ae8dc0af767c0def924b.lua",
+    },
+
     [8524572339] = {
         Name    = "bridger: WESTERN",
         PaidUrl = "https://api.luarmor.net/files/v4/loaders/00f66c6113c62438df3ad3ba4ab54ddc.lua",
