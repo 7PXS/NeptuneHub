@@ -1,21 +1,19 @@
--- Neptune Hub game registry. Roblox key loader reads Name, PaidUrl, FreeUrl only.
--- Groupboxes / LastUpdate are used by the website (neptunehub.shop).
 return {
 
     [578392296] = {
         Name = "ABA",
         PaidUrl = "https://api.luarmor.net/files/v4/loaders/c9b0fca9ee7806da690cd40c77751691.lua",
         FreeUrl = "https://api.luarmor.net/files/v4/loaders/fb277df44e3bc5d7b727588f9302c1d5.lua",
-        LastUpdate = "2026-05-20",
+        LastUpdate = "2026-03-01",
         Groupboxes = {
             {
-                Name = "Hitbox Extender",
+                Name = "Visuals — Hitbox Extender",
                 Features = {
                     { Name = "Hitbox Extender", Description = "Neptune Hub Hitbox Extender for this game.", Tier = "Free" },
                 },
             },
             {
-                Name = "Extra",
+                Name = "Visuals — Extra",
                 Features = {
                     { Name = "Main Account Farm", Description = "Neptune Hub Main Account Farm for this game.", Tier = "Free" },
                     { Name = "Alt Account Farm", Description = "Neptune Hub Alt Account Farm for this game.", Tier = "Free" },
@@ -25,7 +23,7 @@ return {
                 },
             },
             {
-                Name = "Skin Sniper",
+                Name = "Visuals — Skin Sniper",
                 Features = {
                     { Name = "Hitbox Extender", Description = "Neptune Hub Hitbox Extender for this game.", Tier = "Paid" },
                     { Name = "Kokushibo Perfect Timing", Description = "Neptune Hub Kokushibo Perfect Timing for this game.", Tier = "Paid" },
@@ -47,10 +45,10 @@ return {
         Name = "AOTR",
         PaidUrl = "https://api.luarmor.net/files/v4/loaders/5ca5aecc9b4650eea56cfcf9418fe87a.lua",
         FreeUrl = "https://api.luarmor.net/files/v4/loaders/083df767880b4503a08252f478a1e8cf.lua",
-        LastUpdate = "2026-05-20",
+        LastUpdate = "2026-04-12",
         Groupboxes = {
             {
-                Name = "Auto Missions",
+                Name = "Auto Farm — Auto Missions",
                 Features = {
                     { Name = "Auto Missions", Description = "Neptune Hub Auto Missions for this game.", Tier = "Free" },
                     { Name = "Auto Mission Farm V2 [Blade]", Description = "Neptune Hub Auto Mission Farm V2 [Blade] for this game.", Tier = "Free" },
@@ -64,11 +62,10 @@ return {
                     { Name = "Mission Map Selection", Description = "Neptune Hub Mission Map Selection for this game.", Tier = "Free" },
                     { Name = "Mission Difficulty Selection", Description = "Neptune Hub Mission Difficulty Selection for this game.", Tier = "Free" },
                     { Name = "Mission Penaltys Selection", Description = "Neptune Hub Mission Penaltys Selection for this game.", Tier = "Free" },
-                    { Name = "Auto Mission Farm V3 [RISKY]", Description = "Neptune Hub Auto Mission Farm V3 [RISKY] for this game.", Tier = "Paid" },
                 },
             },
             {
-                Name = "Extras",
+                Name = "Auto Farm — Extras",
                 Features = {
                     { Name = "Send Loot Reward Webhooks", Description = "Neptune Hub Send Loot Reward Webhooks for this game.", Tier = "Free" },
                     { Name = "Auto Reload", Description = "Neptune Hub Auto Reload for this game.", Tier = "Free" },
@@ -76,11 +73,10 @@ return {
                     { Name = "Auto Retry", Description = "Neptune Hub Auto Retry for this game.", Tier = "Free" },
                     { Name = "Auto Escape Grap/Grip", Description = "Neptune Hub Auto Escape Grap/Grip for this game.", Tier = "Free" },
                     { Name = "Mission Weapon Selection", Description = "Neptune Hub Mission Weapon Selection for this game.", Tier = "Free" },
-                    { Name = "Raid Weapon Selection", Description = "Neptune Hub Raid Weapon Selection for this game.", Tier = "Paid" },
                 },
             },
             {
-                Name = "Local Player",
+                Name = "Auto Farm — Local Player",
                 Features = {
                     { Name = "Fly", Description = "Allows your character to fly freely", Tier = "Free" },
                     { Name = "Walk Speed", Description = "Neptune Hub Walk Speed for this game.", Tier = "Free" },
@@ -92,7 +88,7 @@ return {
                 },
             },
             {
-                Name = "Teleports",
+                Name = "Auto Farm — Teleports",
                 Features = {
                     { Name = "Auto Skip Cutscenes", Description = "Neptune Hub Auto Skip Cutscenes for this game.", Tier = "Free" },
                     { Name = "Auto Quick Time Event", Description = "Neptune Hub Auto Quick Time Event for this game.", Tier = "Free" },
@@ -102,7 +98,7 @@ return {
                 },
             },
             {
-                Name = "OP Features",
+                Name = "Auto Farm — OP Features",
                 Features = {
                     { Name = "Target Families", Description = "Neptune Hub Target Families for this game.", Tier = "Free" },
                     { Name = "Delay Between Spins", Description = "Neptune Hub Delay Between Spins for this game.", Tier = "Free" },
@@ -120,7 +116,7 @@ return {
                 },
             },
             {
-                Name = "Player ESP Settings",
+                Name = "World — Player ESP Settings",
                 Features = {
                     { Name = "Enable Player ESP", Description = "Neptune Hub Enable Player ESP for this game.", Tier = "Free" },
                     { Name = "Boxes", Description = "Neptune Hub Boxes for this game.", Tier = "Free" },
@@ -134,7 +130,7 @@ return {
                 },
             },
             {
-                Name = "Mob ESP Settings",
+                Name = "World — Mob ESP Settings",
                 Features = {
                     { Name = "Enable Mob ESP", Description = "Neptune Hub Enable Mob ESP for this game.", Tier = "Free" },
                     { Name = "Boxes", Description = "Neptune Hub Boxes for this game.", Tier = "Free" },
@@ -146,7 +142,7 @@ return {
                 },
             },
             {
-                Name = "Camera",
+                Name = "World — Camera",
                 Features = {
                     { Name = "Fullbright", Description = "Removes all darkness and lighting limitations", Tier = "Free" },
                     { Name = "Remove Fog", Description = "Neptune Hub Remove Fog for this game.", Tier = "Free" },
@@ -154,6 +150,36 @@ return {
                     { Name = "Custom Ambient", Description = "Neptune Hub Custom Ambient for this game.", Tier = "Free" },
                     { Name = "Custom FOV", Description = "Neptune Hub Custom FOV for this game.", Tier = "Free" },
                     { Name = "Field of View", Description = "Neptune Hub Field of View for this game.", Tier = "Free" },
+                },
+            },
+            {
+                Name = "Auto Raids — Auto Missions",
+                Features = {
+                    { Name = "Auto Missions", Description = "Neptune Hub Auto Missions for this game.", Tier = "Paid" },
+                    { Name = "Auto Mission Farm V2 [Blade]", Description = "Neptune Hub Auto Mission Farm V2 [Blade] for this game.", Tier = "Paid" },
+                    { Name = "Auto Mission Farm V3 [RISKY]", Description = "Neptune Hub Auto Mission Farm V3 [RISKY] for this game.", Tier = "Paid" },
+                    { Name = "Auto Start Mission", Description = "Neptune Hub Auto Start Mission for this game.", Tier = "Paid" },
+                    { Name = "Kill Aura", Description = "Automatically attacks all nearby enemies", Tier = "Paid" },
+                    { Name = "Kill Aura Range", Description = "Neptune Hub Kill Aura Range for this game.", Tier = "Paid" },
+                    { Name = "Tween Speed", Description = "Neptune Hub Tween Speed for this game.", Tier = "Paid" },
+                    { Name = "Above Distance [ Y ]", Description = "Neptune Hub Above Distance [ Y ] for this game.", Tier = "Paid" },
+                    { Name = "Wait Between Each Mob", Description = "Neptune Hub Wait Between Each Mob for this game.", Tier = "Paid" },
+                    { Name = "Target Part Selection", Description = "Neptune Hub Target Part Selection for this game.", Tier = "Paid" },
+                    { Name = "Mission Map Selection", Description = "Neptune Hub Mission Map Selection for this game.", Tier = "Paid" },
+                    { Name = "Mission Difficulty Selection", Description = "Neptune Hub Mission Difficulty Selection for this game.", Tier = "Paid" },
+                    { Name = "Mission Penaltys Selection", Description = "Neptune Hub Mission Penaltys Selection for this game.", Tier = "Paid" },
+                },
+            },
+            {
+                Name = "Auto Raids — Extras",
+                Features = {
+                    { Name = "Send Loot Reward Webhooks", Description = "Neptune Hub Send Loot Reward Webhooks for this game.", Tier = "Paid" },
+                    { Name = "Auto Reload", Description = "Neptune Hub Auto Reload for this game.", Tier = "Paid" },
+                    { Name = "Auto Refill", Description = "Neptune Hub Auto Refill for this game.", Tier = "Paid" },
+                    { Name = "Auto Retry", Description = "Neptune Hub Auto Retry for this game.", Tier = "Paid" },
+                    { Name = "Auto Escape Grap/Grip", Description = "Neptune Hub Auto Escape Grap/Grip for this game.", Tier = "Paid" },
+                    { Name = "Mission Weapon Selection", Description = "Neptune Hub Mission Weapon Selection for this game.", Tier = "Paid" },
+                    { Name = "Raid Weapon Selection", Description = "Neptune Hub Raid Weapon Selection for this game.", Tier = "Paid" },
                 },
             },
             {
@@ -172,6 +198,46 @@ return {
                     { Name = "Raid Penaltys Selection", Description = "Neptune Hub Raid Penaltys Selection for this game.", Tier = "Paid" },
                 },
             },
+            {
+                Name = "Auto Raids — Local Player",
+                Features = {
+                    { Name = "Fly", Description = "Allows your character to fly freely", Tier = "Paid" },
+                    { Name = "Walk Speed", Description = "Neptune Hub Walk Speed for this game.", Tier = "Paid" },
+                    { Name = "Noclip", Description = "Neptune Hub Noclip for this game.", Tier = "Paid" },
+                    { Name = "Instant Prompts", Description = "Instantly completes interaction prompts", Tier = "Paid" },
+                    { Name = "Infinite Unzoom", Description = "Neptune Hub Infinite Unzoom for this game.", Tier = "Paid" },
+                    { Name = "Walk Speed Value", Description = "Neptune Hub Walk Speed Value for this game.", Tier = "Paid" },
+                    { Name = "Fly Speed Value", Description = "Neptune Hub Fly Speed Value for this game.", Tier = "Paid" },
+                },
+            },
+            {
+                Name = "Auto Raids — Teleports",
+                Features = {
+                    { Name = "Auto Skip Cutscenes", Description = "Neptune Hub Auto Skip Cutscenes for this game.", Tier = "Paid" },
+                    { Name = "Auto Quick Time Event", Description = "Neptune Hub Auto Quick Time Event for this game.", Tier = "Paid" },
+                    { Name = "Auto Open Free Chests", Description = "Neptune Hub Auto Open Free Chests for this game.", Tier = "Paid" },
+                    { Name = "Teleport To NPC", Description = "Neptune Hub Teleport To NPC for this game.", Tier = "Paid" },
+                    { Name = "Teleport To Player", Description = "Neptune Hub Teleport To Player for this game.", Tier = "Paid" },
+                },
+            },
+            {
+                Name = "Auto Raids — OP Features",
+                Features = {
+                    { Name = "Target Families", Description = "Neptune Hub Target Families for this game.", Tier = "Paid" },
+                    { Name = "Delay Between Spins", Description = "Neptune Hub Delay Between Spins for this game.", Tier = "Paid" },
+                    { Name = "Auto Spin Family", Description = "Neptune Hub Auto Spin Family for this game.", Tier = "Paid" },
+                    { Name = "Spear Upgrades", Description = "Neptune Hub Spear Upgrades for this game.", Tier = "Paid" },
+                    { Name = "Blade Upgrades", Description = "Neptune Hub Blade Upgrades for this game.", Tier = "Paid" },
+                    { Name = "Delay Between Upgrades", Description = "Neptune Hub Delay Between Upgrades for this game.", Tier = "Paid" },
+                    { Name = "Auto Upgrade Blade", Description = "Neptune Hub Auto Upgrade Blade for this game.", Tier = "Paid" },
+                    { Name = "Auto Upgrade Spear", Description = "Neptune Hub Auto Upgrade Spear for this game.", Tier = "Paid" },
+                    { Name = "Auto Claim Achievements", Description = "Automatically claims achievement rewards", Tier = "Paid" },
+                    { Name = "Auto Claim BattlePass [Free]", Description = "Neptune Hub Auto Claim BattlePass [Free] for this game.", Tier = "Paid" },
+                    { Name = "Auto Claim Daily Quests", Description = "Neptune Hub Auto Claim Daily Quests for this game.", Tier = "Paid" },
+                    { Name = "Kill Aura Distance", Description = "Neptune Hub Kill Aura Distance for this game.", Tier = "Paid" },
+                    { Name = "Kill Aura [OP]", Description = "Neptune Hub Kill Aura [OP] for this game.", Tier = "Paid" },
+                },
+            },
         },
     },
 
@@ -179,10 +245,10 @@ return {
         Name = "Type Soul",
         PaidUrl = "https://api.luarmor.net/files/v4/loaders/14d17ae9ee94144cb99f7a8bb882861f.lua",
         FreeUrl = "https://api.luarmor.net/files/v4/loaders/23257859e8c9ae8dc0af767c0def924b.lua",
-        LastUpdate = "2026-05-20",
+        LastUpdate = "2026-03-05",
         Groupboxes = {
             {
-                Name = "Auto Skills",
+                Name = "Extras — Auto Skills",
                 Features = {
                     { Name = "Auto Use Rerolls", Description = "Neptune Hub Auto Use Rerolls for this game.", Tier = "Free" },
                     { Name = "Reroll Delay", Description = "Neptune Hub Reroll Delay for this game.", Tier = "Free" },
@@ -202,7 +268,7 @@ return {
                 },
             },
             {
-                Name = "World Mob",
+                Name = "Extras — World Mob",
                 Features = {
                     { Name = "Auto Hollow Progression", Description = "Neptune Hub Auto Hollow Progression for this game.", Tier = "Free" },
                     { Name = "Farm Auto Critical", Description = "Neptune Hub Farm Auto Critical for this game.", Tier = "Free" },
@@ -247,10 +313,29 @@ return {
                     { Name = "Aim Lock Smoothing", Description = "Neptune Hub Aim Lock Smoothing for this game.", Tier = "Free" },
                     { Name = "Force Auto Rotate", Description = "Neptune Hub Force Auto Rotate for this game.", Tier = "Free" },
                     { Name = "Sticky Targets", Description = "Neptune Hub Sticky Targets for this game.", Tier = "Free" },
+                    { Name = "Vertical Influence", Description = "Neptune Hub Vertical Influence for this game.", Tier = "Free" },
+                    { Name = "Smoothing Factor", Description = "Neptune Hub Smoothing Factor for this game.", Tier = "Free" },
+                    { Name = "Smoothing Style", Description = "Neptune Hub Smoothing Style for this game.", Tier = "Free" },
+                    { Name = "Smoothing Direction", Description = "Neptune Hub Smoothing Direction for this game.", Tier = "Free" },
+                    { Name = "Enable Auto Defense", Description = "Neptune Hub Enable Auto Defense for this game.", Tier = "Free" },
+                    { Name = "Allow Failure", Description = "Neptune Hub Allow Failure for this game.", Tier = "Free" },
+                    { Name = "Enable Notifications", Description = "Neptune Hub Enable Notifications for this game.", Tier = "Free" },
+                    { Name = "Debug Logs", Description = "Neptune Hub Debug Logs for this game.", Tier = "Free" },
+                    { Name = "Enable Visualizations", Description = "Neptune Hub Enable Visualizations for this game.", Tier = "Free" },
+                    { Name = "Dash On Parry Cooldown", Description = "Neptune Hub Dash On Parry Cooldown for this game.", Tier = "Free" },
+                    { Name = "Deflect Block Fallback", Description = "Neptune Hub Deflect Block Fallback for this game.", Tier = "Free" },
+                    { Name = "Deflect Hold Time", Description = "Neptune Hub Deflect Hold Time for this game.", Tier = "Free" },
+                    { Name = "Max Auto Parry Distance", Description = "Neptune Hub Max Auto Parry Distance for this game.", Tier = "Free" },
+                    { Name = "Auto Defense Filters", Description = "Neptune Hub Auto Defense Filters for this game.", Tier = "Free" },
+                    { Name = "Default Dash Direction", Description = "Neptune Hub Default Dash Direction for this game.", Tier = "Free" },
+                    { Name = "Failure Rate", Description = "Neptune Hub Failure Rate for this game.", Tier = "Free" },
+                    { Name = "Dash Instead Of Parry Rate", Description = "Neptune Hub Dash Instead Of Parry Rate for this game.", Tier = "Free" },
+                    { Name = "Fake Parry Mistime Rate", Description = "Neptune Hub Fake Parry Mistime Rate for this game.", Tier = "Free" },
+                    { Name = "Ignore Animation End Rate", Description = "Neptune Hub Ignore Animation End Rate for this game.", Tier = "Free" },
                 },
             },
             {
-                Name = "Camera",
+                Name = "World — Camera",
                 Features = {
                     { Name = "Enable ESP", Description = "Neptune Hub Enable ESP for this game.", Tier = "Free" },
                     { Name = "Mob ESP", Description = "See mobs and NPCs through walls", Tier = "Free" },
@@ -276,10 +361,11 @@ return {
                     { Name = "No Shadows", Description = "Neptune Hub No Shadows for this game.", Tier = "Free" },
                     { Name = "Custom Ambient", Description = "Neptune Hub Custom Ambient for this game.", Tier = "Free" },
                     { Name = "Custom FOV", Description = "Neptune Hub Custom FOV for this game.", Tier = "Free" },
+                    { Name = "Field of View", Description = "Neptune Hub Field of View for this game.", Tier = "Free" },
                 },
             },
             {
-                Name = "Player Farm",
+                Name = "Extras — Player Farm",
                 Features = {
                     { Name = "Auto Hollow Progression", Description = "Neptune Hub Auto Hollow Progression for this game.", Tier = "Paid" },
                     { Name = "Farm Auto Critical", Description = "Neptune Hub Farm Auto Critical for this game.", Tier = "Paid" },
@@ -301,7 +387,7 @@ return {
                 },
             },
             {
-                Name = "Parry builder",
+                Name = "World — Parry builder",
                 Features = {
                     { Name = "When (ms)", Description = "Neptune Hub When (ms) for this game.", Tier = "Paid" },
                     { Name = "Hitbox X", Description = "Neptune Hub Hitbox X for this game.", Tier = "Paid" },
@@ -318,30 +404,64 @@ return {
         Name = "Bizarre Lineage",
         PaidUrl = "https://api.luarmor.net/files/v4/loaders/8e596a14b226166df1768ba08d56d4b7.lua",
         FreeUrl = "https://api.luarmor.net/files/v4/loaders/1d81a6853a3d06f84ff080a9df897512.lua",
-        LastUpdate = "2026-05-20",
+        LastUpdate = "2026-03-06",
         Groupboxes = {
             {
-                Name = "General",
+                Name = "Combat",
                 Features = {
-                    { Name = "Auto Summon Stand", Description = "Neptune Hub Auto Summon Stand for this game.", Tier = "Free" },
-                    { Name = "Enable Auto Skills", Description = "Neptune Hub Enable Auto Skills for this game.", Tier = "Free" },
-                    { Name = "Auto Polnareff", Description = "Neptune Hub Auto Polnareff for this game.", Tier = "Free" },
-                    { Name = "Auto Gang Territory Farm", Description = "Neptune Hub Auto Gang Territory Farm for this game.", Tier = "Free" },
-                    { Name = "Auto Train Meditation", Description = "Neptune Hub Auto Train Meditation for this game.", Tier = "Free" },
-                    { Name = "Enable Auto Workouts", Description = "Neptune Hub Enable Auto Workouts for this game.", Tier = "Free" },
-                    { Name = "Enable Auto Stats", Description = "Neptune Hub Enable Auto Stats for this game.", Tier = "Free" },
+                    { Name = "Kill Aura", Description = "Automatically attacks all nearby enemies", Tier = "Free" },
+                    { Name = "God Mode", Description = "Prevents taking any damage", Tier = "Free" },
+                    { Name = "No Stun", Description = "Disables stun effects on your character", Tier = "Free" },
+                    { Name = "No Effects", Description = "Removes visual hit effects for clarity", Tier = "Free" },
+                },
+            },
+            {
+                Name = "Automation",
+                Features = {
+                    { Name = "Auto PvE Missions", Description = "Automatically completes PvE missions", Tier = "Free" },
+                    { Name = "Auto PvP Queue", Description = "Automatically queues and plays PvP matches", Tier = "Free" },
+                    { Name = "Auto Raid", Description = "Automatically runs raid encounters", Tier = "Free" },
                     { Name = "Auto World Events", Description = "Automatically participates in world events", Tier = "Free" },
-                    { Name = "Serverhop When No World Event", Description = "Neptune Hub Serverhop When No World Event for this game.", Tier = "Free" },
-                    { Name = "Serverhop When No Items", Description = "Neptune Hub Serverhop When No Items for this game.", Tier = "Free" },
-                    { Name = "Auto Claim Achievements", Description = "Automatically claims achievement rewards", Tier = "Free" },
+                    { Name = "Auto Gang Territory", Description = "Automatically captures gang territories", Tier = "Free" },
+                    { Name = "Auto Storyline", Description = "Automatically progresses the storyline", Tier = "Free" },
+                    { Name = "Auto Arrow Farm", Description = "Automatically farms arrow drops", Tier = "Free" },
+                    { Name = "Auto Stand Reroll", Description = "Automatically rerolls your stand", Tier = "Free" },
+                    { Name = "Auto Sell Items", Description = "Automatically sells items from inventory", Tier = "Free" },
+                    { Name = "Auto Open Chests", Description = "Automatically opens collected chests", Tier = "Free" },
                     { Name = "Auto Craft Chests", Description = "Automatically crafts chests from materials", Tier = "Free" },
-                    { Name = "Auto Buy Raid Shop Items", Description = "Neptune Hub Auto Buy Raid Shop Items for this game.", Tier = "Free" },
-                    { Name = "Auto Buy Prestige Shop", Description = "Neptune Hub Auto Buy Prestige Shop for this game.", Tier = "Free" },
-                    { Name = "Auto-Execute On Teleport", Description = "Neptune Hub Auto-Execute On Teleport for this game.", Tier = "Free" },
-                    { Name = "Auto Raid V1", Description = "Neptune Hub Auto Raid V1 for this game.", Tier = "Paid" },
-                    { Name = "Auto Retry", Description = "Neptune Hub Auto Retry for this game.", Tier = "Paid" },
-                    { Name = "Auto Arrow Farm", Description = "Automatically farms arrow drops", Tier = "Paid" },
-                    { Name = "Auto Stand Reroll [Stat]", Description = "Neptune Hub Auto Stand Reroll [Stat] for this game.", Tier = "Paid" },
+                    { Name = "Auto Buy Raid Shop", Description = "Automatically purchases from the raid shop", Tier = "Free" },
+                    { Name = "Auto Claim Achievements", Description = "Automatically claims achievement rewards", Tier = "Free" },
+                    { Name = "Auto Workouts", Description = "Automatically completes workout activities", Tier = "Free" },
+                    { Name = "Auto Stats", Description = "Automatically allocates stat points on level up", Tier = "Free" },
+                    { Name = "Auto Prestige", Description = "Automatically prestiges when eligible", Tier = "Free" },
+                    { Name = "Auto Training", Description = "Automatically trains combat skills", Tier = "Free" },
+                },
+            },
+            {
+                Name = "Visual",
+                Features = {
+                    { Name = "Player ESP", Description = "See players through walls", Tier = "Free" },
+                    { Name = "Mob ESP", Description = "See mobs and NPCs through walls", Tier = "Free" },
+                    { Name = "Fullbright", Description = "Removes all darkness and lighting limitations", Tier = "Free" },
+                },
+            },
+            {
+                Name = "Movement",
+                Features = {
+                    { Name = "Fly", Description = "Allows your character to fly freely", Tier = "Free" },
+                    { Name = "NoClip", Description = "Pass through walls and solid objects", Tier = "Free" },
+                    { Name = "Custom WalkSpeed", Description = "Set a custom movement speed value", Tier = "Free" },
+                    { Name = "Invisibility", Description = "Become invisible to other players via desync", Tier = "Free" },
+                },
+            },
+            {
+                Name = "Utility",
+                Features = {
+                    { Name = "Instant Prompts", Description = "Instantly completes interaction prompts", Tier = "Free" },
+                    { Name = "Serverhop", Description = "Automatically switches to a new server", Tier = "Free" },
+                    { Name = "Teleports", Description = "Teleport to various in-game locations", Tier = "Free" },
+                    { Name = "Shop Opener", Description = "Opens shop menus automatically", Tier = "Free" },
+                    { Name = "Config System", Description = "Save and load your script configuration", Tier = "Free" },
                 },
             },
         },
@@ -351,28 +471,28 @@ return {
         Name = "Jujutsu Zero",
         PaidUrl = nil,
         FreeUrl = "https://api.luarmor.net/files/v4/loaders/18eb981418ced3ee300d434394f254fb.lua",
-        LastUpdate = "2026-05-20",
+        LastUpdate = "2026-03-18",
         Groupboxes = {
             {
-                Name = "GodMode",
+                Name = "Players — GodMode",
                 Features = {
                     { Name = "God Mode", Description = "Prevents taking any damage", Tier = "Free" },
                 },
             },
             {
-                Name = "Auto Spin",
+                Name = "Players — Auto Spin",
                 Features = {
                     { Name = "Auto Spin", Description = "Neptune Hub Auto Spin for this game.", Tier = "Free" },
                 },
             },
             {
-                Name = "Hitbox Expander",
+                Name = "Players — Hitbox Expander",
                 Features = {
                     { Name = "HitBox Expander", Description = "Neptune Hub HitBox Expander for this game.", Tier = "Free" },
                 },
             },
             {
-                Name = "Auto Raid",
+                Name = "Players — Auto Raid",
                 Features = {
                     { Name = "Auto Quest", Description = "Automatically completes quests", Tier = "Free" },
                     { Name = "Auto Select Quest [Level]", Description = "Neptune Hub Auto Select Quest [Level] for this game.", Tier = "Free" },
@@ -381,13 +501,13 @@ return {
                 },
             },
             {
-                Name = "Extra",
+                Name = "Players — Extra",
                 Features = {
                     { Name = "Auto Grade Up", Description = "Neptune Hub Auto Grade Up for this game.", Tier = "Free" },
                 },
             },
             {
-                Name = "Universal Player Features",
+                Name = "Players — Universal Player Features",
                 Features = {
                     { Name = "Fly", Description = "Allows your character to fly freely", Tier = "Free" },
                     { Name = "NoClip", Description = "Pass through walls and solid objects", Tier = "Free" },
@@ -405,7 +525,7 @@ return {
         Name = "bridger: WESTERN",
         PaidUrl = "https://api.luarmor.net/files/v4/loaders/00f66c6113c62438df3ad3ba4ab54ddc.lua",
         FreeUrl = "https://api.luarmor.net/files/v4/loaders/62fae3fc8ed63cf34669218569de1eb0.lua",
-        LastUpdate = "2026-05-20",
+        LastUpdate = "2026-04-12",
         Groupboxes = {
             {
                 Name = "Automation",
@@ -433,7 +553,7 @@ return {
         Name = "Sailor Piece",
         PaidUrl = "https://api.luarmor.net/files/v4/loaders/60b92b9536dd001f847cf6dfa6baf96a.lua",
         FreeUrl = nil,
-        LastUpdate = "2026-05-20",
+        LastUpdate = "2026-04-12",
         Groupboxes = {
             {
                 Name = "Questlines",
@@ -462,6 +582,56 @@ return {
                     { Name = "Auto Use Skills", Description = "Neptune Hub Auto Use Skills for this game.", Tier = "Free" },
                     { Name = "Boss Only", Description = "Neptune Hub Boss Only for this game.", Tier = "Free" },
                     { Name = "Auto Skill Combo", Description = "Neptune Hub Auto Skill Combo for this game.", Tier = "Free" },
+                    { Name = "Auto Ascend", Description = "Neptune Hub Auto Ascend for this game.", Tier = "Free" },
+                    { Name = "Auto Roll Trait", Description = "Neptune Hub Auto Roll Trait for this game.", Tier = "Free" },
+                    { Name = "Auto Roll Race", Description = "Neptune Hub Auto Roll Race for this game.", Tier = "Free" },
+                    { Name = "Auto Roll Clan", Description = "Neptune Hub Auto Roll Clan for this game.", Tier = "Free" },
+                    { Name = "Auto Send Request", Description = "Neptune Hub Auto Send Request for this game.", Tier = "Free" },
+                    { Name = "Auto Accept Request", Description = "Neptune Hub Auto Accept Request for this game.", Tier = "Free" },
+                    { Name = "Auto Accept Trade", Description = "Neptune Hub Auto Accept Trade for this game.", Tier = "Free" },
+                    { Name = "Auto UP Stats", Description = "Neptune Hub Auto UP Stats for this game.", Tier = "Free" },
+                    { Name = "Auto Roll Stats", Description = "Neptune Hub Auto Roll Stats for this game.", Tier = "Free" },
+                    { Name = "Auto Skill Tree", Description = "Neptune Hub Auto Skill Tree for this game.", Tier = "Free" },
+                    { Name = "Auto Join Dungeon", Description = "Neptune Hub Auto Join Dungeon for this game.", Tier = "Free" },
+                    { Name = "Auto Infinite Tower", Description = "Neptune Hub Auto Infinite Tower for this game.", Tier = "Free" },
+                    { Name = "Auto Select Difficulty", Description = "Neptune Hub Auto Select Difficulty for this game.", Tier = "Free" },
+                    { Name = "Auto Replay", Description = "Neptune Hub Auto Replay for this game.", Tier = "Free" },
+                    { Name = "Autofarm Dungeon", Description = "Neptune Hub Autofarm Dungeon for this game.", Tier = "Free" },
+                    { Name = "Noclip", Description = "Neptune Hub Noclip for this game.", Tier = "Free" },
+                    { Name = "Anti Knockback", Description = "Neptune Hub Anti Knockback for this game.", Tier = "Free" },
+                    { Name = "Disable 3D Rendering", Description = "Neptune Hub Disable 3D Rendering for this game.", Tier = "Free" },
+                    { Name = "FPS Boost", Description = "Neptune Hub FPS Boost for this game.", Tier = "Free" },
+                    { Name = "FPS Boost [Autofarm]", Description = "Neptune Hub FPS Boost [Autofarm] for this game.", Tier = "Free" },
+                    { Name = "Anti AFK", Description = "Neptune Hub Anti AFK for this game.", Tier = "Free" },
+                    { Name = "Anti Kick (Client)", Description = "Neptune Hub Anti Kick (Client) for this game.", Tier = "Free" },
+                    { Name = "Auto Reconnect", Description = "Neptune Hub Auto Reconnect for this game.", Tier = "Free" },
+                    { Name = "No Gameplay Paused", Description = "Neptune Hub No Gameplay Paused for this game.", Tier = "Free" },
+                    { Name = "Auto Serverhop", Description = "Neptune Hub Auto Serverhop for this game.", Tier = "Free" },
+                    { Name = "Instant Prompt", Description = "Neptune Hub Instant Prompt for this game.", Tier = "Free" },
+                    { Name = "Fullbright", Description = "Removes all darkness and lighting limitations", Tier = "Free" },
+                    { Name = "No Fog", Description = "Neptune Hub No Fog for this game.", Tier = "Free" },
+                    { Name = "Auto Kick", Description = "Neptune Hub Auto Kick for this game.", Tier = "Free" },
+                    { Name = "Auto Buy Selected Items", Description = "Neptune Hub Auto Buy Selected Items for this game.", Tier = "Free" },
+                    { Name = "Auto Buy Dungeon Items", Description = "Neptune Hub Auto Buy Dungeon Items for this game.", Tier = "Free" },
+                    { Name = "Auto Buy Tower Items", Description = "Neptune Hub Auto Buy Tower Items for this game.", Tier = "Free" },
+                    { Name = "Auto Buy Boss Rush Items", Description = "Neptune Hub Auto Buy Boss Rush Items for this game.", Tier = "Free" },
+                    { Name = "Auto Open Chest", Description = "Neptune Hub Auto Open Chest for this game.", Tier = "Free" },
+                    { Name = "Auto Craft Item", Description = "Neptune Hub Auto Craft Item for this game.", Tier = "Free" },
+                    { Name = "Auto Hide Notification", Description = "Neptune Hub Auto Hide Notification for this game.", Tier = "Free" },
+                    { Name = "Auto Questline [BETA]", Description = "Neptune Hub Auto Questline [BETA] for this game.", Tier = "Free" },
+                    { Name = "Auto-Execute On Teleport", Description = "Neptune Hub Auto-Execute On Teleport for this game.", Tier = "Free" },
+                    { Name = "Auto Artifact Milestone", Description = "Neptune Hub Auto Artifact Milestone for this game.", Tier = "Paid" },
+                    { Name = "Auto Enchant", Description = "Neptune Hub Auto Enchant for this game.", Tier = "Paid" },
+                    { Name = "Auto Enchant All", Description = "Neptune Hub Auto Enchant All for this game.", Tier = "Paid" },
+                    { Name = "Auto Blessing", Description = "Neptune Hub Auto Blessing for this game.", Tier = "Paid" },
+                    { Name = "Auto Blessing All", Description = "Neptune Hub Auto Blessing All for this game.", Tier = "Paid" },
+                    { Name = "Auto Reroll Passive", Description = "Neptune Hub Auto Reroll Passive for this game.", Tier = "Paid" },
+                    { Name = "Auto Lock", Description = "Neptune Hub Auto Lock for this game.", Tier = "Paid" },
+                    { Name = "Auto Delete", Description = "Neptune Hub Auto Delete for this game.", Tier = "Paid" },
+                    { Name = "Auto Delete Unlocked", Description = "Neptune Hub Auto Delete Unlocked for this game.", Tier = "Paid" },
+                    { Name = "Auto Upgrade", Description = "Neptune Hub Auto Upgrade for this game.", Tier = "Paid" },
+                    { Name = "Upgrade in Stages", Description = "Neptune Hub Upgrade in Stages for this game.", Tier = "Paid" },
+                    { Name = "Auto Equip", Description = "Neptune Hub Auto Equip for this game.", Tier = "Paid" },
                 },
             },
         },
@@ -473,6 +643,89 @@ return {
         FreeUrl = "https://raw.githubusercontent.com/EdgeIY/infiniteyield/master/source",
         LastUpdate = "2026-05-20",
         Groupboxes = {},
+    },
+
+    [648454481] = {
+        Name = "VV",
+        PaidUrl = nil,
+        FreeUrl = nil,
+        LastUpdate = "2026-04-09",
+        Groupboxes = {
+            {
+                Name = "Automation",
+                Features = {
+                    { Name = "Auto Farm", Description = "Automatically farms EXP and items", Tier = "Free" },
+                    { Name = "Auto Quest", Description = "Automatically completes quests", Tier = "Free" },
+                    { Name = "Auto Level", Description = "Automatically levels up your character", Tier = "Free" },
+                },
+            },
+            {
+                Name = "Combat",
+                Features = {
+                    { Name = "Auto Attack", Description = "Automatically attacks nearby enemies", Tier = "Free" },
+                    { Name = "Auto Haki", Description = "Automatically uses Haki abilities in combat", Tier = "Free" },
+                },
+            },
+            {
+                Name = "Visual",
+                Features = {
+                    { Name = "Player ESP", Description = "See players through walls", Tier = "Free" },
+                    { Name = "Fruit ESP", Description = "Highlight devil fruits on the map", Tier = "Free" },
+                },
+            },
+        },
+    },
+
+    [3646793294] = {
+        Name = "Anime Warriors 3",
+        PaidUrl = nil,
+        FreeUrl = nil,
+        LastUpdate = "2026-04-12",
+        Groupboxes = {
+            {
+                Name = "Automation",
+                Features = {
+                    { Name = "Auto Farm", Description = "Automatically farms EXP and items", Tier = "Free" },
+                    { Name = "Auto Quest", Description = "Automatically completes quests", Tier = "Free" },
+                },
+            },
+            {
+                Name = "Combat",
+                Features = {
+                    { Name = "Kill Aura", Description = "Automatically attacks all nearby enemies", Tier = "Free" },
+                    { Name = "Auto Attack", Description = "Automatically attacks nearby enemies", Tier = "Free" },
+                },
+            },
+            {
+                Name = "Visual",
+                Features = {
+                    { Name = "Player ESP", Description = "See players through walls", Tier = "Free" },
+                },
+            },
+        },
+    },
+
+    [6490954291] = {
+        Name = "Anime Apocalypse",
+        PaidUrl = nil,
+        FreeUrl = nil,
+        LastUpdate = "2026-02-28",
+        Groupboxes = {
+            {
+                Name = "Automation",
+                Features = {
+                    { Name = "Auto Farm Kagune", Description = "Automatically farms Kagune resources", Tier = "Free" },
+                    { Name = "Auto Quest", Description = "Automatically completes quests", Tier = "Free" },
+                    { Name = "Auto Collect", Description = "Automatically collects nearby drops and items", Tier = "Free" },
+                },
+            },
+            {
+                Name = "Visual",
+                Features = {
+                    { Name = "Stat ESP", Description = "Displays player stats above their characters", Tier = "Free" },
+                },
+            },
+        },
     },
 
 }
