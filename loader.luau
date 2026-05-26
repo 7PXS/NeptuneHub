@@ -678,7 +678,7 @@ return {
 
     [6409513651] = {
         Name = "Anime Warriors 3",
-        PaidUrl = nil,
+        PaidUrl = "https://api.luarmor.net/files/v4/loaders/afdb9d593dcbefe4f290b74e1e2b9114.lua",
         FreeUrl = nil,
         LastUpdate = "2026-04-12",
         Groupboxes = {
