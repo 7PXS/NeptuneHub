@@ -676,7 +676,7 @@ return {
         },
     },
 
-    [3646793294] = {
+    [6409513651] = {
         Name = "Anime Warriors 3",
         PaidUrl = nil,
         FreeUrl = nil,
