@@ -41,6 +41,40 @@ return {
         },
     },
 
+    [10006104044] = {
+        Name = "Devil Hunters",
+        PaidUrl = "https://api.luarmor.net/files/v4/loaders/e667185d331b9addac0495e764553da5.lua",
+        FreeUrl = nil,
+        LastUpdate = "2026-05-26",
+        Groupboxes = {
+            {
+                Name = "Features",
+                Features = {
+                    { Name = "Auto Mission Farm", Description = "Auto Mission Farm", Tier = "Paid" },
+                    { Name = "Mob Farm", Description = "Mob Farm", Tier = "Paid" },
+                    { Name = "Auto Stat Points", Description = "Auto Stat Points", Tier = "Paid" },
+                    { Name = "Auto Parry", Description = "Auto Parry", Tier = "Paid" },
+                    { Name = "Animation Logger", Description = "Animation Logger", Tier = "Paid" },
+                    { Name = "Animation Visualizer", Description = "Animation Visualizer", Tier = "Paid" },
+                    { Name = "Timing Builder", Description = "Timing Builder", Tier = "Paid" },
+                    { Name = "Fly", Description = "Fly", Tier = "Paid" },
+                    { Name = "NoClip", Description = "NoClip", Tier = "Paid" },
+                    { Name = "WalkSpeed", Description = "WalkSpeed", Tier = "Paid" },
+                    { Name = "FOV", Description = "FOV", Tier = "Paid" },
+                    { Name = "Infinite Unzoom", Description = "Infinite Unzoom", Tier = "Paid" },
+                    { Name = "Instant Prompts", Description = "Instant Prompts", Tier = "Paid" },
+                    { Name = "Player ESP", Description = "Player ESP", Tier = "Paid" },
+                    { Name = "Posture Bar", Description = "Posture Bar", Tier = "Paid" },
+                    { Name = "Weapon ESP", Description = "Weapon ESP", Tier = "Paid" },
+                    { Name = "M2 Flag", Description = "M2 Flag", Tier = "Paid" },
+                    { Name = "Skeleton ESP", Description = "Skeleton ESP", Tier = "Paid" },
+                    { Name = "Chams", Description = "Chams", Tier = "Paid" },
+                    { Name = "Mob ESP", Description = "Mob ESP", Tier = "Paid" },
+                },
+            },
+        },
+    },
+
     [4658598196] = {
         Name = "AOTR",
         PaidUrl = "https://api.luarmor.net/files/v4/loaders/5ca5aecc9b4650eea56cfcf9418fe87a.lua",
@@ -680,7 +714,7 @@ return {
         Name = "Anime Warriors 3",
         PaidUrl = "https://api.luarmor.net/files/v4/loaders/afdb9d593dcbefe4f290b74e1e2b9114.lua",
         FreeUrl = nil,
-        LastUpdate = "2026-04-12",
+        LastUpdate = "2026-05-26",
         Groupboxes = {
             {
                 Name = "Automation",
