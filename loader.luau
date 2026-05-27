@@ -41,7 +41,7 @@ return {
         },
     },
 
-    [10006104044] = {
+    [7440311707] = {
         Name = "Devil Hunters",
         PaidUrl = "https://api.luarmor.net/files/v4/loaders/e667185d331b9addac0495e764553da5.lua",
         FreeUrl = nil,
