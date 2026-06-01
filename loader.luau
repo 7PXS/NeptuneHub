@@ -44,8 +44,8 @@ return {
     [7440311707] = {
         Name = "Devil Hunters",
         PaidUrl = "https://api.luarmor.net/files/v4/loaders/e667185d331b9addac0495e764553da5.lua",
-        FreeUrl = nil,
-        LastUpdate = "2026-05-26",
+        FreeUrl = "https://api.luarmor.net/files/v4/loaders/1d20c43c940356bef4e82580d790f4b9.lua",
+        LastUpdate = "2026-05-31",
         Groupboxes = {
             {
                 Name = "Features",
@@ -550,34 +550,6 @@ return {
                     { Name = "Instant Prompts", Description = "Instantly completes interaction prompts", Tier = "Free" },
                     { Name = "Invisiblity [Desync]", Description = "Neptune Hub Invisiblity [Desync] for this game.", Tier = "Free" },
                     { Name = "Fullbright", Description = "Removes all darkness and lighting limitations", Tier = "Free" },
-                },
-            },
-        },
-    },
-
-    [8524572339] = {
-        Name = "bridger: WESTERN",
-        PaidUrl = "https://api.luarmor.net/files/v4/loaders/00f66c6113c62438df3ad3ba4ab54ddc.lua",
-        FreeUrl = "https://api.luarmor.net/files/v4/loaders/62fae3fc8ed63cf34669218569de1eb0.lua",
-        LastUpdate = "2026-04-12",
-        Groupboxes = {
-            {
-                Name = "Automation",
-                Features = {
-                    { Name = "Auto Farm", Description = "Automatically farms EXP and items", Tier = "Free" },
-                    { Name = "Auto Quest", Description = "Automatically completes quests", Tier = "Free" },
-                },
-            },
-            {
-                Name = "Combat",
-                Features = {
-                    { Name = "Auto Attack", Description = "Automatically attacks nearby enemies", Tier = "Free" },
-                },
-            },
-            {
-                Name = "Visual",
-                Features = {
-                    { Name = "Player ESP", Description = "See players through walls", Tier = "Free" },
                 },
             },
         },
