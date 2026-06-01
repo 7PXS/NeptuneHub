@@ -651,7 +651,7 @@ return {
         Groupboxes = {},
     },
 
-    [648454481] = {
+    [2309918273] = {
         Name = "VV",
         PaidUrl = nil,
         FreeUrl = nil,
@@ -711,7 +711,7 @@ return {
         },
     },
 
-    [6490954291] = {
+    [9073513091] = {
         Name = "Anime Apocalypse",
         PaidUrl = nil,
         FreeUrl = nil,
