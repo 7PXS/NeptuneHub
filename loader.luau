@@ -713,7 +713,7 @@ return {
 
     [9073513091] = {
         Name = "Anime Apocalypse",
-        PaidUrl = nil,
+        PaidUrl = "https://api.luarmor.net/files/v4/loaders/7a3eb68dfc59590b9672b23f2b6a1681.lua",
         FreeUrl = nil,
         LastUpdate = "2026-02-28",
         Groupboxes = {
