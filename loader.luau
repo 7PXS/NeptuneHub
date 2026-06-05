@@ -75,6 +75,14 @@ return {
         },
     },
 
+    [1691616425] = {
+        Name = "Heroes World",
+        PaidUrl = "https://api.luarmor.net/files/v4/loaders/7df1376969b4e53a3b1698485f3213d9.lua",
+        FreeUrl = nil,
+        LastUpdate = "2026-06-05",
+    },
+
+
     [4658598196] = {
         Name = "AOTR",
         PaidUrl = "https://api.luarmor.net/files/v4/loaders/5ca5aecc9b4650eea56cfcf9418fe87a.lua",
