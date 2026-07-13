@@ -82,6 +82,13 @@ return {
         LastUpdate = "2026-06-05",
     },
 
+    [9199655655] = {
+        Name = "(学乱) Gakuran",
+        PaidUrl = "https://api.luarmor.net/files/v4/loaders/a04973c11ff0cce45ed39a51c946e030.lua",
+        FreeUrl = nil,
+        LastUpdate = "2026-07-13",
+    },
+
 
     [4658598196] = {
         Name = "AOTR",
