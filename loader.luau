@@ -86,7 +86,182 @@ return {
         Name = "(学乱) Gakuran",
         PaidUrl = "https://api.luarmor.net/files/v4/loaders/a04973c11ff0cce45ed39a51c946e030.lua",
         FreeUrl = nil,
-        LastUpdate = "2026-07-13",
+        LastUpdate = "2026-07-14",
+        Groupboxes = {
+            {
+                Name = "Main — Basketball",
+                Features = {
+                    { Name = "Auto Perfect Shots", Description = "Neptune Hub Auto Perfect Shots for this game.", Tier = "Free" },
+                    { Name = "Perfect Chance", Description = "Neptune Hub Perfect Chance for this game.", Tier = "Free" },
+                    { Name = "Miss Chance", Description = "Neptune Hub Miss Chance for this game.", Tier = "Free" },
+                    { Name = "Release Latency", Description = "Neptune Hub Release Latency for this game.", Tier = "Free" },
+                },
+            },
+            {
+                Name = "Main — Auto Rhythm",
+                Features = {
+                    { Name = "Auto Rhythm", Description = "Neptune Hub Auto Rhythm for this game.", Tier = "Free" },
+                    { Name = "Perfect Chance", Description = "Neptune Hub Perfect Chance for this game.", Tier = "Free" },
+                    { Name = "Good Chance", Description = "Neptune Hub Good Chance for this game.", Tier = "Free" },
+                    { Name = "Okay Chance", Description = "Neptune Hub Okay Chance for this game.", Tier = "Free" },
+                    { Name = "Bad Chance", Description = "Neptune Hub Bad Chance for this game.", Tier = "Free" },
+                    { Name = "Miss Chance", Description = "Neptune Hub Miss Chance for this game.", Tier = "Free" },
+                    { Name = "Input Latency", Description = "Neptune Hub Input Latency for this game.", Tier = "Free" },
+                },
+            },
+            {
+                Name = "Main — Whiteboard",
+                Features = {
+                    { Name = "Image Quality", Description = "Neptune Hub Image Quality for this game.", Tier = "Free" },
+                    { Name = "Board Size", Description = "Neptune Hub Board Size for this game.", Tier = "Free" },
+                    { Name = "Draw Image On Nearest Whiteboard", Description = "Neptune Hub Draw Image On Nearest Whiteboard for this game.", Tier = "Free" },
+                    { Name = "Clear Nearest Whiteboard", Description = "Neptune Hub Clear Nearest Whiteboard for this game.", Tier = "Free" },
+                },
+            },
+            {
+                Name = "Combat — Auto Parry",
+                Features = {
+                    { Name = "Enable Auto Parry", Description = "Neptune Hub Enable Auto Parry for this game.", Tier = "Free" },
+                    { Name = "Parry Hold Time", Description = "Neptune Hub Parry Hold Time for this game.", Tier = "Free" },
+                    { Name = "Show Hitboxes", Description = "Neptune Hub Show Hitboxes for this game.", Tier = "Free" },
+                    { Name = "Auto Face", Description = "Neptune Hub Auto Face for this game.", Tier = "Paid" },
+                    { Name = "Parry Notifications", Description = "Neptune Hub Parry Notifications for this game.", Tier = "Free" },
+                    { Name = "Debug Logging", Description = "Neptune Hub Debug Logging for this game.", Tier = "Free" },
+                    { Name = "Auto Parry Breaker", Description = "Neptune Hub Auto Parry Breaker for this game.", Tier = "Paid" },
+                    { Name = "Breaker Interval", Description = "Neptune Hub Breaker Interval for this game.", Tier = "Paid" },
+                },
+            },
+            {
+                Name = "Combat — Combat Enhancements",
+                Features = {
+                    { Name = "Auto Sprint", Description = "Neptune Hub Auto Sprint for this game.", Tier = "Free" },
+                    { Name = "Infinite Stamina", Description = "Neptune Hub Infinite Stamina for this game.", Tier = "Free" },
+                    { Name = "No Ragdoll", Description = "Neptune Hub No Ragdoll for this game.", Tier = "Free" },
+                    { Name = "No Stun", Description = "Neptune Hub No Stun for this game.", Tier = "Free" },
+                    { Name = "Auto Revive", Description = "Neptune Hub Auto Revive for this game.", Tier = "Free" },
+                    { Name = "No Dodge Cooldown", Description = "Neptune Hub No Dodge Cooldown for this game.", Tier = "Free" },
+                    { Name = "No Block Cooldown", Description = "Neptune Hub No Block Cooldown for this game.", Tier = "Free" },
+                },
+            },
+            {
+                Name = "Misc — Universal Player",
+                Features = {
+                    { Name = "NoClip", Description = "Neptune Hub NoClip for this game.", Tier = "Free" },
+                    { Name = "Fly", Description = "Neptune Hub Fly for this game.", Tier = "Free" },
+                    { Name = "WalkSpeed", Description = "Neptune Hub WalkSpeed for this game.", Tier = "Free" },
+                    { Name = "Infinite Unzoom", Description = "Neptune Hub Infinite Unzoom for this game.", Tier = "Free" },
+                    { Name = "Instant Prompts", Description = "Neptune Hub Instant Prompts for this game.", Tier = "Free" },
+                    { Name = "Fov", Description = "Neptune Hub Fov for this game.", Tier = "Free" },
+                },
+            },
+            {
+                Name = "Misc — Player Utilities",
+                Features = {
+                    { Name = "Bring Selected Player", Description = "Neptune Hub Bring Selected Player for this game.", Tier = "Free" },
+                    { Name = "Refresh Players", Description = "Neptune Hub Refresh Players for this game.", Tier = "Free" },
+                    { Name = "Teleport To Selected Player", Description = "Neptune Hub Teleport To Selected Player for this game.", Tier = "Free" },
+                },
+            },
+            {
+                Name = "Misc — Server Browser",
+                Features = {
+                    { Name = "Refresh Servers", Description = "Neptune Hub Refresh Servers for this game.", Tier = "Free" },
+                    { Name = "Teleport To Selected Server", Description = "Neptune Hub Teleport To Selected Server for this game.", Tier = "Free" },
+                    { Name = "Hop To Low Server", Description = "Neptune Hub Hop To Low Server for this game.", Tier = "Free" },
+                },
+            },
+            {
+                Name = "Misc — Teleports",
+                Features = {
+                    { Name = "Teleport To Location", Description = "Neptune Hub Teleport To Location for this game.", Tier = "Free" },
+                    { Name = "Refresh Locations", Description = "Neptune Hub Refresh Locations for this game.", Tier = "Free" },
+                    { Name = "Teleport To NPC", Description = "Neptune Hub Teleport To NPC for this game.", Tier = "Free" },
+                    { Name = "Refresh NPCs", Description = "Neptune Hub Refresh NPCs for this game.", Tier = "Free" },
+                },
+            },
+            {
+                Name = "Visuals — Player Esp",
+                Features = {
+                    { Name = "Player Esp", Description = "Neptune Hub Player Esp for this game.", Tier = "Free" },
+                    { Name = "Name Esp", Description = "Neptune Hub Name Esp for this game.", Tier = "Free" },
+                    { Name = "Box Esp", Description = "Neptune Hub Box Esp for this game.", Tier = "Free" },
+                    { Name = "Distance Esp", Description = "Neptune Hub Distance Esp for this game.", Tier = "Free" },
+                    { Name = "Health Bar", Description = "Neptune Hub Health Bar for this game.", Tier = "Free" },
+                    { Name = "Fighting Style Esp", Description = "Neptune Hub Fighting Style Esp for this game.", Tier = "Free" },
+                    { Name = "Max Distance", Description = "Neptune Hub Max Distance for this game.", Tier = "Free" },
+                },
+            },
+            {
+                Name = "Visuals — Npc Esp",
+                Features = {
+                    { Name = "Npc Esp", Description = "Neptune Hub Npc Esp for this game.", Tier = "Free" },
+                    { Name = "Name Esp", Description = "Neptune Hub Name Esp for this game.", Tier = "Free" },
+                    { Name = "Box Esp", Description = "Neptune Hub Box Esp for this game.", Tier = "Free" },
+                    { Name = "Distance Esp", Description = "Neptune Hub Distance Esp for this game.", Tier = "Free" },
+                    { Name = "Health Bar", Description = "Neptune Hub Health Bar for this game.", Tier = "Free" },
+                    { Name = "Fighting Style Esp", Description = "Neptune Hub Fighting Style Esp for this game.", Tier = "Free" },
+                    { Name = "Max Distance", Description = "Neptune Hub Max Distance for this game.", Tier = "Free" },
+                },
+            },
+            {
+                Name = "Visuals — Location Esp",
+                Features = {
+                    { Name = "Location Esp", Description = "Neptune Hub Location Esp for this game.", Tier = "Free" },
+                    { Name = "Name Esp", Description = "Neptune Hub Name Esp for this game.", Tier = "Free" },
+                    { Name = "Distance Esp", Description = "Neptune Hub Distance Esp for this game.", Tier = "Free" },
+                    { Name = "Box Esp", Description = "Neptune Hub Box Esp for this game.", Tier = "Free" },
+                    { Name = "Max Distance", Description = "Neptune Hub Max Distance for this game.", Tier = "Free" },
+                },
+            },
+            {
+                Name = "Visuals — World — Lighting",
+                Features = {
+                    { Name = "Fullbright", Description = "Neptune Hub Fullbright for this game.", Tier = "Free" },
+                    { Name = "No Shadows", Description = "Neptune Hub No Shadows for this game.", Tier = "Free" },
+                    { Name = "Time of Day", Description = "Neptune Hub Time of Day for this game.", Tier = "Free" },
+                    { Name = "Brightness", Description = "Neptune Hub Brightness for this game.", Tier = "Free" },
+                    { Name = "Ambient", Description = "Neptune Hub Ambient for this game.", Tier = "Free" },
+                    { Name = "Outdoor Ambient", Description = "Neptune Hub Outdoor Ambient for this game.", Tier = "Free" },
+                },
+            },
+            {
+                Name = "Visuals — World — Fog",
+                Features = {
+                    { Name = "Change Fog", Description = "Neptune Hub Change Fog for this game.", Tier = "Free" },
+                    { Name = "No Fog", Description = "Neptune Hub No Fog for this game.", Tier = "Free" },
+                    { Name = "Fog Start", Description = "Neptune Hub Fog Start for this game.", Tier = "Free" },
+                    { Name = "Fog End", Description = "Neptune Hub Fog End for this game.", Tier = "Free" },
+                    { Name = "Fog Color", Description = "Neptune Hub Fog Color for this game.", Tier = "Free" },
+                },
+            },
+            {
+                Name = "Visuals — World — Environment",
+                Features = {
+                    { Name = "Latitude", Description = "Neptune Hub Latitude for this game.", Tier = "Free" },
+                    { Name = "Exposure", Description = "Neptune Hub Exposure for this game.", Tier = "Free" },
+                    { Name = "Diffuse Scale", Description = "Neptune Hub Diffuse Scale for this game.", Tier = "Free" },
+                    { Name = "Specular Scale", Description = "Neptune Hub Specular Scale for this game.", Tier = "Free" },
+                },
+            },
+            {
+                Name = "Visuals — World — Post Effects",
+                Features = {
+                    { Name = "Remove Blur", Description = "Neptune Hub Remove Blur for this game.", Tier = "Free" },
+                    { Name = "Remove Bloom", Description = "Neptune Hub Remove Bloom for this game.", Tier = "Free" },
+                    { Name = "Remove Sun Rays", Description = "Neptune Hub Remove Sun Rays for this game.", Tier = "Free" },
+                    { Name = "Remove Color Correction", Description = "Neptune Hub Remove Color Correction for this game.", Tier = "Free" },
+                    { Name = "Remove Atmosphere", Description = "Neptune Hub Remove Atmosphere for this game.", Tier = "Free" },
+                    { Name = "Remove Depth Of Field", Description = "Neptune Hub Remove Depth Of Field for this game.", Tier = "Free" },
+                },
+            },
+            {
+                Name = "Visuals — World — Sky",
+                Features = {
+                    { Name = "Custom Skybox", Description = "Neptune Hub Custom Skybox for this game.", Tier = "Free" },
+                    { Name = "Skybox Asset ID", Description = "Neptune Hub Skybox Asset ID for this game.", Tier = "Free" },
+                },
+            },
+        },
     },
 
 
