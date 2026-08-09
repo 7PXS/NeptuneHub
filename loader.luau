@@ -264,6 +264,14 @@ return {
         LastUpdate = "2026-06-05",
     },
 
+
+    [1511883870] = {
+        Name = "Shindo Life 2",
+        PaidUrl = "https://api.luarmor.net/files/v4/loaders/29d9dc062b97afafaec0c32e136849f8.lua",
+        FreeUrl = nil,
+        LastUpdate = "2026-8-09",
+    },
+
     [9199655655] = {
         Name = "(学乱) Gakuran",
         PaidUrl = "https://api.luarmor.net/files/v4/loaders/a04973c11ff0cce45ed39a51c946e030.lua",
