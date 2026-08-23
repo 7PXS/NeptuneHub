@@ -40,7 +40,34 @@ return {
             },
         },
     },
-
+        [6549794549] = {
+        Name = "RH2 The Journey",
+        PaidUrl = "https://api.luarmor.net/files/v4/loaders/5cc189c98126f29161070e6293d4d737.lua",
+        FreeUrl = nil,
+        LastUpdate = "2026-08-23",
+        Groupboxes = {
+            {
+                Name = "Shooting — Auto Green",
+                Features = {
+                    { Name = "Auto Green", Description = "Neptune Hub Auto Green for this game.", Tier = "Paid" },
+                    { Name = "Release Delay", Description = "Neptune Hub Release Delay for this game.", Tier = "Paid" },
+                },
+            },
+            {
+                Name = "Shooting — Auto Dunk",
+                Features = {
+                    { Name = "Auto Dunk", Description = "Neptune Hub Auto Dunk for this game.", Tier = "Paid" },
+                    { Name = "Dunk Delay", Description = "Neptune Hub Dunk Delay for this game.", Tier = "Paid" },
+                },
+            },
+            {
+                Name = "Shooting — Player",
+                Features = {
+                    { Name = "Auto Sprint (Infinite Stamina)", Description = "Neptune Hub Auto Sprint (Infinite Stamina) for this game.", Tier = "Paid" },
+                },
+            },
+        },
+    },
     [7613921865] = {
         Name = "Anime Expeditions",
         PaidUrl = "https://api.luarmor.net/files/v4/loaders/231e56dfbac2621a970e500dd0c3ea4a.lua",
