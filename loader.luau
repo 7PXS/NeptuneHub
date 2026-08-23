@@ -40,7 +40,7 @@ return {
             },
         },
     },
-        [6549794549] = {
+        [2459091562] = {
         Name = "RH2 The Journey",
         PaidUrl = "https://api.luarmor.net/files/v4/loaders/5cc189c98126f29161070e6293d4d737.lua",
         FreeUrl = nil,
