@@ -1,4 +1,42 @@
 return {
+    [9931749389] = {
+        Name = "Dungeon Quest Reborn",
+        PaidUrl = "https://api.luarmor.net/files/v4/loaders/128509c5ffaa52674f80de8825d02ed7.lua",
+        LastUpdate = "2026-08-24",
+        Groupboxes = {
+            {
+                Name = "Main — Auto Join Dimension",
+                Features = {
+                    { Name = "Auto Join Dimension", Description = "Neptune Hub Auto Join Dimension for this game.", Tier = "Paid" },
+                    { Name = "Auto Spend Skill Points", Description = "Neptune Hub Auto Spend Skill Points for this game.", Tier = "Paid" },
+                },
+            },
+            {
+                Name = "AutoFarm — Dungeon Farm",
+                Features = {
+                    { Name = "Auto Ready", Description = "Neptune Hub Auto Ready for this game.", Tier = "Paid" },
+                },
+            },
+            {
+                Name = "AutoFarm — Enemy Farm",
+                Features = {
+                    { Name = "Auto Farm Enemies", Description = "Neptune Hub Auto Farm Enemies for this game.", Tier = "Paid" },
+                },
+            },
+            {
+                Name = "AutoFarm — Auto Spell",
+                Features = {
+                    { Name = "Auto Spell Cast", Description = "Neptune Hub Auto Spell Cast for this game.", Tier = "Paid" },
+                },
+            },
+            {
+                Name = "AutoFarm — Auto Equip",
+                Features = {
+                    { Name = "Auto Equip Best Gear", Description = "Neptune Hub Auto Equip Best Gear for this game.", Tier = "Paid" },
+                },
+            },
+        },
+    },
 
     [578392296] = {
         Name = "ABA",
