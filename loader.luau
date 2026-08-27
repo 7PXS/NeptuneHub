@@ -1,4 +1,69 @@
 return {
+
+[9656201728] = {
+        Name = "Dungeon LootR",
+        PaidUrl = "https://api.luarmor.net/files/v4/loaders/55a9023f84fc529e1e96aad73f8950bd.lua",
+        LastUpdate = "2026-08-27",
+        Groupboxes = {
+            {
+                Name = "AutoFarm — Dungeon Farm",
+                Features = {
+                    { Name = "Auto Farm", Description = "Neptune Hub Auto Farm for this game.", Tier = "Paid" },
+                    { Name = "Skip Chest", Description = "Neptune Hub Skip Chest for this game.", Tier = "Paid" },
+                    { Name = "Auto M1", Description = "Neptune Hub Auto M1 for this game.", Tier = "Paid" },
+                },
+            },
+            {
+                Name = "AutoFarm — Skills and Potions",
+                Features = {
+                    { Name = "Auto Skill", Description = "Neptune Hub Auto Skill for this game.", Tier = "Paid" },
+                    { Name = "Auto Potion", Description = "Neptune Hub Auto Potion for this game.", Tier = "Paid" },
+                },
+            },
+            {
+                Name = "AutoFarm — Auto Chest",
+                Features = {
+                    { Name = "Auto Chest", Description = "Neptune Hub Auto Chest for this game.", Tier = "Paid" },
+                    { Name = "Chest Selection", Description = "Neptune Hub Chest Selection for this game.", Tier = "Paid" },
+                },
+            },
+            {
+                Name = "AutoFarm — Complete",
+                Features = {
+                    { Name = "Auto Return", Description = "Neptune Hub Auto Return for this game.", Tier = "Paid" },
+                    { Name = "Auto Replay", Description = "Neptune Hub Auto Replay for this game.", Tier = "Paid" },
+                    { Name = "Completion Webhook", Description = "Neptune Hub Completion Webhook for this game.", Tier = "Paid" },
+                },
+            },
+            {
+                Name = "Main — Dungeon Queue",
+                Features = {
+                    { Name = "Auto Dungeon", Description = "Neptune Hub Auto Dungeon for this game.", Tier = "Paid" },
+                    { Name = "Dungeon Selection", Description = "Neptune Hub Dungeon Selection for this game.", Tier = "Paid" },
+                },
+            },
+            {
+                Name = "Main — Utility",
+                Features = {
+                    { Name = "Auto Equip Best Inventory", Description = "Neptune Hub Auto Equip Best Inventory for this game.", Tier = "Paid" },
+                    { Name = "Auto Claim Quests", Description = "Neptune Hub Auto Claim Quests for this game.", Tier = "Paid" },
+                    { Name = "Auto Claim Battlepass", Description = "Neptune Hub Auto Claim Battlepass for this game.", Tier = "Paid" },
+                },
+            },
+            {
+                Name = "Main — Attribute Allocation",
+                Features = {
+                    { Name = "Auto Allocate Stat", Description = "Neptune Hub Auto Allocate Stat for this game.", Tier = "Paid" },
+                },
+            },
+            {
+                Name = "Main — Auto Spin",
+                Features = {
+                    { Name = "Auto Spin", Description = "Neptune Hub Auto Spin for this game.", Tier = "Paid" },
+                },
+            },
+        },
+    },
     [9931749389] = {
         Name = "Dungeon Quest Reborn",
         PaidUrl = "https://api.luarmor.net/files/v4/loaders/128509c5ffaa52674f80de8825d02ed7.lua",
