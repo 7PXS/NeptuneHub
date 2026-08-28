@@ -3,12 +3,13 @@ return {
 [9656201728] = {
         Name = "Dungeon LootR",
         PaidUrl = "https://api.luarmor.net/files/v4/loaders/55a9023f84fc529e1e96aad73f8950bd.lua",
+        FreeUrl = "https://api.luarmor.net/files/v4/loaders/b611b97bba74bd85ad063fc19c2be0d7.lua",
         LastUpdate = "2026-08-27",
         Groupboxes = {
             {
                 Name = "AutoFarm — Dungeon Farm",
                 Features = {
-                    { Name = "Auto Farm", Description = "Neptune Hub Auto Farm for this game.", Tier = "Paid" },
+                    { Name = "Auto Farm", Description = "Neptune Hub Auto Farm for this game.", Tier = "Free" },
                     { Name = "Skip Chest", Description = "Neptune Hub Skip Chest for this game.", Tier = "Paid" },
                     { Name = "Auto M1", Description = "Neptune Hub Auto M1 for this game.", Tier = "Paid" },
                 },
@@ -16,7 +17,7 @@ return {
             {
                 Name = "AutoFarm — Skills and Potions",
                 Features = {
-                    { Name = "Auto Skill", Description = "Neptune Hub Auto Skill for this game.", Tier = "Paid" },
+                    { Name = "Auto Skill", Description = "Neptune Hub Auto Skill for this game.", Tier = "Free" },
                     { Name = "Auto Potion", Description = "Neptune Hub Auto Potion for this game.", Tier = "Paid" },
                 },
             },
@@ -30,15 +31,15 @@ return {
             {
                 Name = "AutoFarm — Complete",
                 Features = {
-                    { Name = "Auto Return", Description = "Neptune Hub Auto Return for this game.", Tier = "Paid" },
-                    { Name = "Auto Replay", Description = "Neptune Hub Auto Replay for this game.", Tier = "Paid" },
+                    { Name = "Auto Return", Description = "Neptune Hub Auto Return for this game.", Tier = "Free" },
+                    { Name = "Auto Replay", Description = "Neptune Hub Auto Replay for this game.", Tier = "Free" },
                     { Name = "Completion Webhook", Description = "Neptune Hub Completion Webhook for this game.", Tier = "Paid" },
                 },
             },
             {
                 Name = "Main — Dungeon Queue",
                 Features = {
-                    { Name = "Auto Dungeon", Description = "Neptune Hub Auto Dungeon for this game.", Tier = "Paid" },
+                    { Name = "Auto Dungeon", Description = "Neptune Hub Auto Dungeon for this game.", Tier = "Free" },
                     { Name = "Dungeon Selection", Description = "Neptune Hub Dungeon Selection for this game.", Tier = "Paid" },
                 },
             },
