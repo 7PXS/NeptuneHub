@@ -1,4 +1,37 @@
 return {
+    [6215986499] = {
+        Name = "Grand Blue",
+        PaidUrl = "https://api.luarmor.net/files/v4/loaders/3f98e16b13a156f0888e7a16fbb1fb4e.lua",
+        LastUpdate = "2026-08-29",
+        Groupboxes = {
+            {
+                Name = "Farming — Auto Quest",
+                Features = {
+                    { Name = "Teleport to Quest", Description = "Instantly teleports your character to the active quest marker.", Tier = "Paid" },
+                },
+            },
+            {
+                Name = "Farming — Auto Farm",
+                Features = {
+                    { Name = "Auto Farm Nearest", Description = "Continuously teleports behind and attacks the nearest mob using native game calls.", Tier = "Paid" },
+                },
+            },
+            {
+                Name = "Farming — Mining",
+                Features = {
+                    { Name = "Auto Mine Nearest", Description = "Automatically teleports to and harvests selected ores (Copper, Iron, Silver, etc.).", Tier = "Paid" },
+                },
+            },
+            {
+                Name = "Utility — Utility",
+                Features = {
+                    { Name = "Auto Execute Macro", Description = "Automatically executes your Luarmor macro and persists through teleports.", Tier = "Paid" },
+                    { Name = "Semi God Mode", Description = "Spams the Dash remote to give you semi-invulnerability against attacks.", Tier = "Paid" },
+                    { Name = "Break Ai Mobs", Description = "Instantly sets the health of all nearby non-player AI mobs to 0.", Tier = "Paid" },
+                },
+            },
+        },
+    },
 
 [9656201728] = {
         Name = "Dungeon LootR",
