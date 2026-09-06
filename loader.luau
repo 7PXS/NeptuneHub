@@ -207,7 +207,7 @@ return {
     },
     [7970033072] = {
         Name = "The Veil",
-        PaidUrl = "https://api.luarmor.net/files/v4/loaders/5cc189c98126f29161070e6293d4d737.lua",
+        PaidUrl = "https://api.luarmor.net/files/v4/loaders/84b132b4bcd030c7380e68ea163e5b7b.lua",
         FreeUrl = nil,
         LastUpdate = "2026-09-05",
         Groupboxes = {
