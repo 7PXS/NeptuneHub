@@ -177,7 +177,7 @@ return {
             },
         },
     },
-        [2459091562] = {
+    [2459091562] = {
         Name = "RH2 The Journey",
         PaidUrl = "https://api.luarmor.net/files/v4/loaders/5cc189c98126f29161070e6293d4d737.lua",
         FreeUrl = nil,
@@ -201,6 +201,89 @@ return {
                 Name = "Shooting — Player",
                 Features = {
                     { Name = "Auto Sprint (Infinite Stamina)", Description = "Neptune Hub Auto Sprint (Infinite Stamina) for this game.", Tier = "Paid" },
+                },
+            },
+        },
+    },
+    [7970033072] = {
+        Name = "The Veil",
+        PaidUrl = "https://api.luarmor.net/files/v4/loaders/5cc189c98126f29161070e6293d4d737.lua",
+        FreeUrl = nil,
+        LastUpdate = "2026-09-05",
+        Groupboxes = {
+            {
+                Name = "Main — Automation",
+                Features = {
+                    { Name = "Auto Farm Mobs", Description = "Neptune Hub Auto Farm Mobs for this game.", Tier = "Paid" },
+                    { Name = "Auto Use Abilities", Description = "Neptune Hub Auto Use Abilities for this game.", Tier = "Paid" },
+                    { Name = "Auto Farm Pickups", Description = "Neptune Hub Auto Farm Pickups for this game.", Tier = "Paid" },
+                    { Name = "Auto Loot Chests", Description = "Neptune Hub Auto Loot Chests for this game.", Tier = "Paid" },
+                },
+            },
+            {
+                Name = "Main — Auto Potions",
+                Features = {
+                    { Name = "Auto Drink Health Potion", Description = "Neptune Hub Auto Drink Health Potion for this game.", Tier = "Paid" },
+                    { Name = "Auto Drink Wrath Potion", Description = "Neptune Hub Auto Drink Wrath Potion for this game.", Tier = "Paid" },
+                    { Name = "Auto Drink Iron Skin Potion", Description = "Neptune Hub Auto Drink Iron Skin Potion for this game.", Tier = "Paid" },
+                    { Name = "Auto Drink Sanity Potion", Description = "Neptune Hub Auto Drink Sanity Potion for this game.", Tier = "Paid" },
+                    { Name = "Enable Auto Buff Potions", Description = "Neptune Hub Enable Auto Buff Potions for this game.", Tier = "Paid" },
+                },
+            },
+            {
+                Name = "Main — Auto Pickup",
+                Features = {
+                    { Name = "Auto Pickup Nearest Items", Description = "Neptune Hub Auto Pickup Nearest Items for this game.", Tier = "Paid" },
+                    { Name = "Pickup Range", Description = "Neptune Hub Pickup Range for this game.", Tier = "Paid" },
+                },
+            },
+            {
+                Name = "Player — LocalPlayer",
+                Features = {
+                    { Name = "Auto Sprint", Description = "Neptune Hub Auto Sprint for this game.", Tier = "Paid" },
+                    { Name = "Streamer Mode", Description = "Neptune Hub Streamer Mode for this game.", Tier = "Paid" },
+                    { Name = "Instant Super Sprint", Description = "Neptune Hub Instant Super Sprint for this game.", Tier = "Paid" },
+                    { Name = "Infinite Stamina", Description = "Neptune Hub Infinite Stamina for this game.", Tier = "Paid" },
+                    { Name = "No Stun", Description = "Neptune Hub No Stun for this game.", Tier = "Paid" },
+                    { Name = "WalkSpeed", Description = "Neptune Hub WalkSpeed for this game.", Tier = "Paid" },
+                    { Name = "Fly", Description = "Neptune Hub Fly for this game.", Tier = "Paid" },
+                },
+            },
+            {
+                Name = "Player — World",
+                Features = {
+                    { Name = "Remove Blur", Description = "Neptune Hub Remove Blur for this game.", Tier = "Paid" },
+                    { Name = "Remove Fog", Description = "Neptune Hub Remove Fog for this game.", Tier = "Paid" },
+                    { Name = "Remove Atmosphere", Description = "Neptune Hub Remove Atmosphere for this game.", Tier = "Paid" },
+                    { Name = "Remove Insanity Vignette", Description = "Neptune Hub Remove Insanity Vignette for this game.", Tier = "Paid" },
+                    { Name = "FullBright", Description = "Neptune Hub FullBright for this game.", Tier = "Paid" },
+                },
+            },
+            {
+                Name = "Visuals — ESP",
+                Features = {
+                    { Name = "Player ESP", Description = "Neptune Hub Player ESP for this game.", Tier = "Paid" },
+                    { Name = "Monster ESP", Description = "Neptune Hub Monster ESP for this game.", Tier = "Paid" },
+                    { Name = "NPC ESP", Description = "Neptune Hub NPC ESP for this game.", Tier = "Paid" },
+                    { Name = "Location ESP", Description = "Neptune Hub Location ESP for this game.", Tier = "Paid" },
+                    { Name = "Item ESP", Description = "Neptune Hub Item ESP for this game.", Tier = "Paid" },
+                },
+            },
+            {
+                Name = "Misc — Teleports",
+                Features = {
+                    { Name = "Teleport to Area", Description = "Neptune Hub Teleport to Area for this game.", Tier = "Paid" },
+                    { Name = "Teleport to Player(s)", Description = "Neptune Hub Teleport to Player(s) for this game.", Tier = "Paid" },
+                    { Name = "Teleport to NPC(s)", Description = "Neptune Hub Teleport to NPC(s) for this game.", Tier = "Paid" },
+                },
+            },
+            {
+                Name = "Misc — Server",
+                Features = {
+                    { Name = "Server Hop", Description = "Neptune Hub Server Hop for this game.", Tier = "Paid" },
+                    { Name = "Rejoin Server", Description = "Neptune Hub Rejoin Server for this game.", Tier = "Paid" },
+                    { Name = "Server List", Description = "Neptune Hub Server List for this game.", Tier = "Paid" },
+                    { Name = "Anti AFK", Description = "Neptune Hub Anti AFK for this game.", Tier = "Paid" },
                 },
             },
         },
